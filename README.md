@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VasilescuO
 - 👀 I’m interested in technology 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Docker/Kubernetes
 - 💞️ I’m looking to collaborate on freelancing 
 - 📫 How to reach me: ovidiu.vasilescu94@gmail.com
 
